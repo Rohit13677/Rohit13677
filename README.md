@@ -19,7 +19,7 @@
 
 🎓 Computer Science Engineering student at **Chandigarh University (2022–2026)**  
 
-I am a **data-driven problem solver** passionate about combining **data analytics, business strategy, and backend systems** to create impactful solutions.
+I am a **data-driven problem solver** focused on combining **data analytics, business strategy, and technology** to create impactful solutions.
 
 I enjoy working at the intersection of:
 - 📊 Data Analytics  
@@ -34,7 +34,7 @@ I enjoy working at the intersection of:
 - 📉 Build dashboards and generate **actionable insights**
 - 🔍 Conduct **market research & lead generation strategies**
 - ⚙️ Develop backend and AI-powered applications
-- 💡 Explore **SaaS and Web3 business models**
+- 💡 Explore **SaaS, startups, and Web3 ecosystems**
 
 ---
 
@@ -73,17 +73,34 @@ I enjoy working at the intersection of:
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
+
+### 🔹 F1 Racing Data Dashboard — Power BI
+
+📊 Interactive dashboard analyzing Formula 1 performance trends across drivers, teams, and seasons.
+
+#### 🔍 Key Features:
+- Built dynamic dashboards using **Power BI**
+- Analyzed **driver performance, constructor standings, and race outcomes**
+- Enabled filtering by **year, team, and driver**
+- Designed intuitive visuals for clear data storytelling
+
+#### 💡 Business Impact:
+- Demonstrates ability to convert raw data into **actionable insights**
+- Simulates real-world use cases like **KPI tracking and performance analysis**
+- Highlights strong **data visualization and analytical skills**
+
+---
 
 ### 🔹 HireSense — AI Resume Screening & Talent Analytics Tool
 
-🚀 An AI-powered system designed to classify resumes and support **data-driven hiring decisions**
+🚀 AI-powered system designed to classify resumes and support **data-driven hiring decisions**
 
 #### 🔍 Key Features:
-- Extracts structured text from resumes using **PyMuPDF**
+- Extracts structured data from resumes using **PyMuPDF**
 - Applies **TF-IDF Vectorization** for feature engineering
 - Uses **Logistic Regression** for job role prediction
-- Provides real-time predictions via **Streamlit UI**
+- Deployed via **Streamlit UI** for real-time interaction
 
 #### 💡 Business Impact:
 - Automates resume screening for HR teams  
@@ -94,9 +111,9 @@ I enjoy working at the intersection of:
 
 ## 📊 Current Focus
 
-- Building **data analytics projects (SQL + Power BI dashboards)**  
-- Learning **advanced business development strategies**  
-- Exploring **AI + SaaS-based solutions**  
+- Building **end-to-end data analytics projects (SQL + Power BI dashboards)**  
+- Learning **advanced business development & sales strategies**  
+- Exploring **AI-powered SaaS solutions**
 
 ---
 
@@ -116,4 +133,4 @@ I am actively seeking opportunities as:
 
 ---
 
-⭐ *"Turning data into decisions and ideas into scalable solutions"*  
+⭐ *"Turning data into insights, and insights into business impact."*
